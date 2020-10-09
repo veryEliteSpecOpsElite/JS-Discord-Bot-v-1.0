@@ -1,0 +1,25 @@
+{
+
+  "name": "very Elite spec ops elite v2.0",
+
+  "description": "just a bot named after me (of course)",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
